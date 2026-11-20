@@ -1,0 +1,14 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.log
+.env
+.mysql-data/
+.mysql-run/
+.codex-report-render/
+.docx-extracted/
+docs/
+screenshots/
+README.md
+
